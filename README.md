@@ -3,8 +3,8 @@
 This repository contains the built version of the Jazz Worktime browser extension.
 
 **Source Code:** [lorenzboss/jazz-worktime](https://github.com/lorenzboss/jazz-worktime)
-**Built from commit:** [`7a6fdf2`](https://github.com/lorenzboss/jazz-worktime/commit/7a6fdf27ae5cdea54e3b87e45167c9e182b55e00)
-**Build date:** 2025-06-30 16:10:49 UTC
+**Built from commit:** [`ed5246c`](https://github.com/lorenzboss/jazz-worktime/commit/ed5246c09847e84ad48b6a30c1b6930f192a8f82)
+**Build date:** 2025-08-27 07:12:08 UTC
 
 ## Installation
 
