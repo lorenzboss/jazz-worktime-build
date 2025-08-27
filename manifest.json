@@ -13,7 +13,9 @@
     {
       "matches": [
         "https://jazz.coop.ch/mobile/*",
-        "https://jazz.hs.coop.ch/mobile/*"
+        "https://jazz.hs.coop.ch/mobile/*",
+        "https://jazz.coop.ch/client/mobile/*",
+        "https://jazz.hs.coop.ch/client/mobile/*"
       ],
       "js": ["dist/main.bundle.js"]
     }
